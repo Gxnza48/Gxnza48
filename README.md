@@ -1,4 +1,9 @@
-<h5 align="left">I am a 18-year-old Frontend/Lua Developer/Programmer from Rosario, Argentina. Passionate about creating engaging web experiences and game development. I also have knowledge in cybersecurity and bot development using both Python and Node.js.</h5>
+<h5 align="left">
+18-year-old Frontend & Lua Developer from Rosario, Argentina. 
+Focused on building web applications, game systems, and privacy-oriented tools. 
+Experience in cybersecurity concepts and bot development using Python and Node.js.
+</h5>
+
 
 ###
 
